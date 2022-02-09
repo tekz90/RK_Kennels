@@ -1,38 +1,38 @@
 [
   {
-    "name": "G",
-    "price": "250",
-    "details": "Good Dell Mouse",
+    "name": "German shepherd",
+    "price": "15000",
+    "details": "world's third intelligent breed",
     "id": 1
   },
   {
-    "name": "HP Laptop",
+    "name": "Great Dane",
     "price": "35000",
-    "details": "Good Laptop",
+    "details": "Apollo of dogs",
     "id": 2
   },
   {
-    "name": "Redmi mobile",
-    "price": "18000",
-    "details": "Good Mobile",
+    "name": "Labrador",
+    "price": "12000",
+    "details": "labour man's friend",
     "id": 3
   },
   {
-    "name": "RAM",
-    "price": "4000",
-    "details": "Good RAM",
+    "name": "Doberman",
+    "price": "12000",
+    "details": "prince of guarding",
     "id": 4
   },
   {
-    "name": "AM",
-    "price": "4000",
-    "details": "Good RAM",
+    "name": "pitbull",
+    "price": "35000",
+    "details": "king of fighting",
     "id": 5
   },
   {
-    "name": "AM",
-    "price": "4000",
-    "details": "Good RAM",
+    "name": "kombai",
+    "price": "12000",
+    "details": "Rottweiler of india",
     "id": 6
   }
 ]
